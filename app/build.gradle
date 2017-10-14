@@ -3,10 +3,10 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "inside.financial.accounting"
-        minSdkVersion 17
+        minSdkVersion 26
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
